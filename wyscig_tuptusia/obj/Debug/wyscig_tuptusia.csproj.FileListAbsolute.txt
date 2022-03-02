@@ -1,0 +1,11 @@
+A:\C#\Kontakty\wyscig_tuptusia\wyscig_tuptusia\bin\Debug\wyscig_tuptusia.exe.config
+A:\C#\Kontakty\wyscig_tuptusia\wyscig_tuptusia\bin\Debug\wyscig_tuptusia.exe
+A:\C#\Kontakty\wyscig_tuptusia\wyscig_tuptusia\bin\Debug\wyscig_tuptusia.pdb
+A:\C#\Kontakty\wyscig_tuptusia\wyscig_tuptusia\obj\Debug\wyscig_tuptusia.csproj.AssemblyReference.cache
+A:\C#\Kontakty\wyscig_tuptusia\wyscig_tuptusia\obj\Debug\wyscig_tuptusia.csproj.SuggestedBindingRedirects.cache
+A:\C#\Kontakty\wyscig_tuptusia\wyscig_tuptusia\obj\Debug\wyscig_tuptusia.Form1.resources
+A:\C#\Kontakty\wyscig_tuptusia\wyscig_tuptusia\obj\Debug\wyscig_tuptusia.Properties.Resources.resources
+A:\C#\Kontakty\wyscig_tuptusia\wyscig_tuptusia\obj\Debug\wyscig_tuptusia.csproj.GenerateResource.cache
+A:\C#\Kontakty\wyscig_tuptusia\wyscig_tuptusia\obj\Debug\wyscig_tuptusia.csproj.CoreCompileInputs.cache
+A:\C#\Kontakty\wyscig_tuptusia\wyscig_tuptusia\obj\Debug\wyscig_tuptusia.exe
+A:\C#\Kontakty\wyscig_tuptusia\wyscig_tuptusia\obj\Debug\wyscig_tuptusia.pdb
